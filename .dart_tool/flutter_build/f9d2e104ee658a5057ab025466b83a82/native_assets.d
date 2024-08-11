@@ -1,0 +1,1 @@
+ D:\\kevin\\Cursos\\Curso\ Flutter\\face\\.dart_tool\\flutter_build\\f9d2e104ee658a5057ab025466b83a82\\native_assets.yaml: 
